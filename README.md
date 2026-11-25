@@ -66,7 +66,7 @@
 
 0bridge is one MCP endpoint that gives every AI tool your team uses, from Claude and ChatGPT to Claude Code, Codex and Cursor, the same services, files, instructions and skills. Each person signs in with their own account and keeps their own memory and history. Free for one person.
 
-**Areas:** AI · MCP · Integration · Team Collaboration · Productivity
+**Areas:** Artificial Intelligence · MCP · Integration · Team Collaboration · Productivity
 
 ## 0bridge on APIs.io
 
@@ -108,26 +108,26 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [0Bridge Dev Authentication](https://apis.io/security/0bridge-dev/0bridge-dev-authentication/)
-- [0Bridge Dev Domain Security](https://apis.io/security/0bridge-dev/0bridge-dev-domain-security/)
+- [0bridge Authentication](https://apis.io/security/0bridge-dev/0bridge-dev-authentication/)
+- [0bridge Domain Security](https://apis.io/security/0bridge-dev/0bridge-dev-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [0Bridge Dev Scopes](https://apis.io/scopes/0bridge-dev/0bridge-dev-scopes/)
+- [0bridge Scopes](https://apis.io/scopes/0bridge-dev/0bridge-dev-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [0Bridge Dev Plans Pricing](https://apis.io/plans/0bridge-dev/0bridge-dev-plans-pricing/)
+- [0bridge Plans Pricing](https://apis.io/plans/0bridge-dev/0bridge-dev-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [0Bridge Dev Rate Limits](https://apis.io/rate-limits/0bridge-dev/0bridge-dev-rate-limits/)
+- [0bridge Rate Limits](https://apis.io/rate-limits/0bridge-dev/0bridge-dev-rate-limits/)
 
 ## Where to find this API
 
@@ -147,25 +147,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 61.0** — strong · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 47.2** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 58.9 |
-| Contract quality | 53.4 |
-| Contract governance | 79.1 |
-| Operational transparency | 50.5 |
+| Discoverability | 66.1 |
+| Contract quality | 24.7 |
+| Contract governance | 22.0 |
+| Operational transparency | 47.6 |
 | Developer ergonomics | 42.9 |
-| Access clarity | 73.2 |
+| Access clarity | 72.3 |
 
-**Agent readiness 38.6** — agent-ready
+**Agent readiness 34.8** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -183,6 +183,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
 
